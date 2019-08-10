@@ -15,3 +15,10 @@ Features:
 I'd like to make it a bit more on par with other clients,
 w/ downloading RSS files, managing collections, and otherwise
 keeping a database.
+
+# Dependencies
+
+- libxml2
+	- For RSS file parsing
+- ncurses
+	- For the TUI
